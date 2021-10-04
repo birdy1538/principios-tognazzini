@@ -87,7 +87,7 @@ module.exports = [
     descriptionWeb: "",
   },
   {
-    // ERROR
+    
     id: "8",
     title:
       "Reemplazar la palabra “predeterminado” con un término más significativo y receptivo.",
@@ -101,12 +101,13 @@ module.exports = [
     descriptionWeb: "",
   },
   {
+   
     id: "9",
     title: "Buscar la productividad del usuario y no la de la computadora.",
     description:
       "Al juzgar la eficiencia de un sistema, mire más allá de la eficiencia de la máquina. Las personas cuestan mucho más dinero que las máquinas, y aunque puede parecer que el aumento de la productividad de las máquinas debe resultar en un aumento de la productividad humana, a menudo ocurre lo contrario.",
     image:
-      "https://blogs.lavanguardia.com/metamorfosis/files/2016/10/bussy-300x225.jpg",
+      "https://www.ituser.es/files/201906/hr-roi.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -118,7 +119,7 @@ module.exports = [
     description:
       "Por lo general, el gasto más alto, con mucho, en un negocio es el costo laboral. Cada vez que un empleado debe esperar a que el sistema responda antes de poder proceder, se está perdiendo dinero.",
     image:
-      "https://economipedia.com/wp-content/uploads/productividad-marginal-e1489597820135-2.jpg",
+      "https://blogs.lavanguardia.com/metamorfosis/files/2016/10/bussy-300x225.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -131,7 +132,7 @@ module.exports = [
     description:
       "Esta simple verdad es la razón por la que es tan importante que todos los involucrados en un proyecto de software aprecien la importancia de hacer que el objetivo de productividad del usuario sea el número uno y comprendan la diferencia vital entre construir un sistema eficiente y empoderar a un usuario eficiente.",
     image:
-      "https://previews.123rf.com/images/lightwise/lightwise1411/lightwise141100037/33453811-ruta-soluci%C3%B3n-concepto-de-negocio-como-un-hombre-de-negocios-en-un-camino-claro-corte-a-trav%C3%A9s-de-ca.jpg",
+      "https://economipedia.com/wp-content/uploads/productividad-marginal-e1489597820135-2.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -142,7 +143,7 @@ module.exports = [
     title: "Permitir siempre una salida.",
     description:
       "Los usuarios nunca deben sentirse atrapados dentro de un laberinto. Deben tener un camino claro hacia afuera.",
-    image: "https://image.flaticon.com/icons/png/512/40/40316.png",
+    image: "https://previews.123rf.com/images/lightwise/lightwise1411/lightwise141100037/33453811-ruta-soluci%C3%B3n-concepto-de-negocio-como-un-hombre-de-negocios-en-un-camino-claro-corte-a-trav%C3%A9s-de-ca.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -155,7 +156,7 @@ module.exports = [
     description:
       "Los objetos de interfaz humana que se pueden ver son bastante familiares en las interfaces gráficas de usuario. Los objetos que son percibidos por otro sentido, como el oído o el tacto, son menos familiares o no son necesariamente conocidos por nosotros como objetos.",
     image:
-      "https://www.redeszone.net/app/uploads-redeszone.net/2019/11/latencia_conexion.jpg",
+      "https://image.flaticon.com/icons/png/512/40/40316.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -167,7 +168,7 @@ module.exports = [
     description:
       "Reconozca todos los clics de los botones mediante comentarios visuales o auditivos en 50 milisegundos.",
     image:
-      "https://esports.eldesmarque.com/wp-content/uploads/2020/07/Lag-Brawl-Stars.jpg",
+      "https://www.redeszone.net/app/uploads-redeszone.net/2019/11/latencia_conexion.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -179,7 +180,7 @@ module.exports = [
     description:
       "Por lo general tenemos señalizaciones que nos indican que hay retraso o latencia, es muy importante utilizarlas.",
     image:
-      "https://blog.ida.cl/wp-content/uploads/sites/5/2020/01/image-9-655x470.png",
+      "https://esports.eldesmarque.com/wp-content/uploads/2020/07/Lag-Brawl-Stars.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -190,7 +191,7 @@ module.exports = [
     title: "Evitar solo las pruebas para la capacidad de aprendizaje.",
     description:
       "Muchas pruebas de usabilidad implica ejecutar una serie de pruebas a intervalos regulares con solo pasar de 20 minutos a una hora con cada sujeto que reclute.",
-    image: "https://vivirnoesconsumir.files.wordpress.com/2015/01/5.png",
+    image: "https://blog.ida.cl/wp-content/uploads/sites/5/2020/01/image-9-655x470.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -203,7 +204,7 @@ module.exports = [
     description:
       "No solo no hay necesidad de copiar servilmente un objeto del mundo real (skeumorfismo), sino que limitar innecesariamente la funcionalidad de una contraparte de software solo para 'perfeccionar' la imitación es más a menudo un mal diseño.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://vivirnoesconsumir.files.wordpress.com/2015/01/5.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -215,7 +216,7 @@ module.exports = [
     description:
       "Una metáfora está destinada a empoderar a su usuario. Sin embargo, hay momentos en que también puede retrasar su diseño.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "http://2.bp.blogspot.com/-sERArANOlu4/T2DG_npjU_I/AAAAAAAAAec/08A3ZFhZ25o/s1600/64785_257403157674172_206807786067043_585076_405109617_n.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -227,7 +228,7 @@ module.exports = [
     description:
       "Los usuarios no deben perder su trabajo como resultado de un error de su parte, los caprichos de la transmisión por Internet o cualquier otra razón que no sea la completamente inevitable, como la pérdida repentina de energía en una computadora cliente sin la protección de energía adecuada.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://cio.com.mx/wp-content/uploads/2019/05/interrupcion-perdida-datos.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -239,7 +240,7 @@ module.exports = [
     description:
       "Favorece el texto negro sobre fondos blancos o amarillos pálidos. Evite los fondos grises.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://i0.wp.com/www.techleo.es/wp-content/uploads/2020/08/Leer-contrastes-fondos-techleo-1.jpg?resize=200%2C125&ssl=1",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -252,7 +253,7 @@ module.exports = [
     description:
       "Debe trabajar con su equipo de diseño gráfico e ingeniería para asegurarse de que su código se muestra en tamaños apropiados en esa gama de pantallas.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://cdn1.comohacerpara.com/imgn/00002-aumentar-disminuir-tamano-letra-forma-rapida.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -265,7 +266,7 @@ module.exports = [
     description:
       "Los usuarios experimentados leen solo la mayor parte del nombre de un elemento para diferenciarlos entre los elementos. Los usuarios altamente experimentados en realidad desencadenan la diferencia en las formas externas de toda la primera palabra sin leer nada.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://farm2.staticflickr.com/1782/29619561308_f0f340818e.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -278,7 +279,7 @@ module.exports = [
     description:
       "El problema es que el sistema de visión humana responde a los bordes afilados, por lo que, en tamaños de fuente más pequeños, una fuente anti-aliased, aunque a menudo parece más atractiva, puede ser bastante difícil de comprender.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://www.webdevelopersnotes.com/wp-content/uploads/antialiasing-use.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -290,7 +291,7 @@ module.exports = [
     description:
       "Debemos esforzarnos por simplificar la vida de los usuarios. Eso a menudo requiere un delicado equilibrio entre nuestro esfuerzo por facilitar la instalación de un producto y hacer que el uso posterior de ese producto sea más fácil o mejor.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://www07.abb.com/images/librariesprovider84/home-page/prosta-instalacja.png?sfvrsn=b987a114_5",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -302,7 +303,7 @@ module.exports = [
     description:
       "Debe dejar claro en su política de privacidad que guardará datos, haciendo su caso de por qué es de interés para el usuario. Cualquier dato del usuario, incluidos los datos de estado, debe cifrarse y protegerse.",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freejpg.com.ar%2Fasset%2F900%2Fcc%2Fccbf%2FF100011044.jpg&f=1&nofb=1",
+      "https://blogs.unitec.mx/content/dam/blogs/imagenes/corp_samara/tips-super-basicos-de-seguridad-informatica-5.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
