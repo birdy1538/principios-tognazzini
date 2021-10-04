@@ -87,6 +87,7 @@ module.exports = [
     descriptionWeb: "",
   },
   {
+    // ERROR
     id: "8",
     title:
       "Reemplazar la palabra “predeterminado” con un término más significativo y receptivo.",
