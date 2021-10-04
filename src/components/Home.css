@@ -1,0 +1,36 @@
+.home {
+  margin: 0 auto;
+}
+
+.home__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.home__container {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+  padding: 5rem 0;
+  gap: 3rem;
+  flex-wrap: wrap;
+  border: 1px solid #e5e5e5;
+  border-radius: 1rem;
+}
+
+.home__item {
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  transition: 350ms;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid #85858549;
+}
+
+.home__item:hover {
+  transform: scale(1.05);
+  filter: grayscale(1);
+}
