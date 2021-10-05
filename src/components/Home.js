@@ -8,19 +8,11 @@ function Home() {
     <div className="home">
       <h1 className="home__title">Principios de Bruce Tognazzini</h1>
 
-      {/* iterate each data and show the images in a list */}
       <div className="home__container">
-        {/* for i in data:  */}
         {data.map((item, index) => (
           <Link to={`/detail/${item.id}`} key={index}>
-            <div
-              key={index}
-              className="home__item"
-            >
-              <img
-              src={item.image}
-              alt="Principios"
-              ></img>
+            <div key={index} className="home__item">
+              <img key={index} src={item.image} alt={item.title} />
             </div>
           </Link>
         ))}

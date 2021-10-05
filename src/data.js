@@ -31,7 +31,7 @@ module.exports = [
     description:
       "El usuario realiza una prueba después de que se hayan realizado cambios estéticos, comparando, en su caso, el nuevo diseño contra el antiguo.",
     image:
-      "https://www.hotjar.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Flh3zuq09vnm2%2F73udzLdmCjZPjBiUSpnjD6%2F79b992719f407e22aa8c01ee9c57819e%2Fwebsite-usability-testing.width-1500.png&w=828&q=75",
+      "https://bizflyportal.mediacdn.vn/bizflyportal/596/2428/2020/09/10/15/03/ab-15997033821402.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -87,7 +87,6 @@ module.exports = [
     descriptionWeb: "",
   },
   {
-    
     id: "8",
     title:
       "Reemplazar la palabra “predeterminado” con un término más significativo y receptivo.",
@@ -101,13 +100,11 @@ module.exports = [
     descriptionWeb: "",
   },
   {
-   
     id: "9",
     title: "Buscar la productividad del usuario y no la de la computadora.",
     description:
       "Al juzgar la eficiencia de un sistema, mire más allá de la eficiencia de la máquina. Las personas cuestan mucho más dinero que las máquinas, y aunque puede parecer que el aumento de la productividad de las máquinas debe resultar en un aumento de la productividad humana, a menudo ocurre lo contrario.",
-    image:
-      "https://www.ituser.es/files/201906/hr-roi.png",
+    image: "https://www.ituser.es/files/201906/hr-roi.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -143,7 +140,8 @@ module.exports = [
     title: "Permitir siempre una salida.",
     description:
       "Los usuarios nunca deben sentirse atrapados dentro de un laberinto. Deben tener un camino claro hacia afuera.",
-    image: "https://previews.123rf.com/images/lightwise/lightwise1411/lightwise141100037/33453811-ruta-soluci%C3%B3n-concepto-de-negocio-como-un-hombre-de-negocios-en-un-camino-claro-corte-a-trav%C3%A9s-de-ca.jpg",
+    image:
+      "https://previews.123rf.com/images/lightwise/lightwise1411/lightwise141100037/33453811-ruta-soluci%C3%B3n-concepto-de-negocio-como-un-hombre-de-negocios-en-un-camino-claro-corte-a-trav%C3%A9s-de-ca.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -155,8 +153,7 @@ module.exports = [
       "Los objetos de interfaz humana pueden ser vistos, oídos, sentidos o percibidos de otra manera.",
     description:
       "Los objetos de interfaz humana que se pueden ver son bastante familiares en las interfaces gráficas de usuario. Los objetos que son percibidos por otro sentido, como el oído o el tacto, son menos familiares o no son necesariamente conocidos por nosotros como objetos.",
-    image:
-      "https://image.flaticon.com/icons/png/512/40/40316.png",
+    image: "https://image.flaticon.com/icons/png/512/40/40316.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -191,7 +188,8 @@ module.exports = [
     title: "Evitar solo las pruebas para la capacidad de aprendizaje.",
     description:
       "Muchas pruebas de usabilidad implica ejecutar una serie de pruebas a intervalos regulares con solo pasar de 20 minutos a una hora con cada sujeto que reclute.",
-    image: "https://blog.ida.cl/wp-content/uploads/sites/5/2020/01/image-9-655x470.png",
+    image:
+      "https://blog.ida.cl/wp-content/uploads/sites/5/2020/01/image-9-655x470.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -203,8 +201,7 @@ module.exports = [
       "Expandirse más allá de la interpretación literal de las contrapartes del mundo real.",
     description:
       "No solo no hay necesidad de copiar servilmente un objeto del mundo real (skeumorfismo), sino que limitar innecesariamente la funcionalidad de una contraparte de software solo para 'perfeccionar' la imitación es más a menudo un mal diseño.",
-    image:
-      "https://vivirnoesconsumir.files.wordpress.com/2015/01/5.png",
+    image: "https://vivirnoesconsumir.files.wordpress.com/2015/01/5.png",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -265,8 +262,7 @@ module.exports = [
       "Las etiquetas de menú y botones deberían tener primero las palabras clave, formando así una etiqueta única.",
     description:
       "Los usuarios experimentados leen solo la mayor parte del nombre de un elemento para diferenciarlos entre los elementos. Los usuarios altamente experimentados en realidad desencadenan la diferencia en las formas externas de toda la primera palabra sin leer nada.",
-    image:
-      "https://farm2.staticflickr.com/1782/29619561308_f0f340818e.jpg",
+    image: "https://farm2.staticflickr.com/1782/29619561308_f0f340818e.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -308,5 +304,5 @@ module.exports = [
     descriptionMobile: "",
     imageWeb: "",
     descriptionWeb: "",
-  }
+  },
 ];

@@ -13,13 +13,15 @@ function Detail() {
     <div className="detail">
       <h1 className="detail__title">{info.title}</h1>
       <p className="detail__description">{info.description}</p>
-      <div className="detail_img_container">
-        <img src={info.imageWeb} alt="web" />
-        <img src={info.imageMobile} alt="mobile" />
+      <div className="detail__footer">
+        <div className="detail_img_container">
+          <img src={info.imageWeb} alt="web" />
+          <img src={info.imageMobile} alt="mobile" />
+        </div>
+        <Link to="/">
+          <i class="fas fa-home"></i>
+        </Link>
       </div>
-      <Link to="/">
-        <i class="fas fa-home"></i>
-      </Link>
     </div>
   );
 }
