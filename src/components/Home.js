@@ -16,8 +16,12 @@ function Home() {
             <div
               key={index}
               className="home__item"
-              style={{ backgroundImage: `url(${item.image})` }}
-            ></div>
+            >
+              <img
+              src={item.image}
+              alt="Principios"
+              ></img>
+            </div>
           </Link>
         ))}
       </div>

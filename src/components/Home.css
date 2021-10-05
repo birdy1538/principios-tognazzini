@@ -21,16 +21,17 @@
 }
 
 .home__item {
-  width: 350px;
-  height: 350px;
-  border-radius: 10px;
   transition: 350ms;
-  background-size: cover;
-  background-position: center;
-  border: 1px solid #85858549;
+  overflow: hidden;
 }
 
 .home__item:hover {
   transform: scale(1.05);
   filter: grayscale(1);
+}
+
+img {
+  width: 350px; 
+  border-radius: 10px;
+  border: 1px solid #85858549;
 }
