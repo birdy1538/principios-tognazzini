@@ -31,7 +31,7 @@ module.exports = [
     description:
       "El usuario realiza una prueba después de que se hayan realizado cambios estéticos, comparando, en su caso, el nuevo diseño contra el antiguo.",
     image:
-      "https://www.hotjar.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Flh3zuq09vnm2%2F73udzLdmCjZPjBiUSpnjD6%2F79b992719f407e22aa8c01ee9c57819e%2Fwebsite-usability-testing.width-1500.png&w=1920&q=75",
+      "https://www.hotjar.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Flh3zuq09vnm2%2F73udzLdmCjZPjBiUSpnjD6%2F79b992719f407e22aa8c01ee9c57819e%2Fwebsite-usability-testing.width-1500.png&w=828&q=75",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -80,7 +80,7 @@ module.exports = [
     description:
       "No todo debería tener un valor predeterminado. Si no hay un ganador predecible, considere no ofrecer ningún valor predeterminado.",
     image:
-      "https://thecreative.net/blog/wp-content/uploads/2016/09/Bliss-XP-HD1-960x623.jpg",
+      "https://d500.epimg.net/cincodias/imagenes/2019/04/11/lifestyle/1554991429_358290_1554991501_noticia_normal.jpg",
     imageMobile: "",
     descriptionMobile: "",
     imageWeb: "",
@@ -308,5 +308,5 @@ module.exports = [
     descriptionMobile: "",
     imageWeb: "",
     descriptionWeb: "",
-  },
+  }
 ];
