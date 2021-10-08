@@ -68,7 +68,7 @@ module.exports = [
     description:
       "El color es una dimensión vital de nuestras limitadas habilidades de comunicación. Eliminar los colores que una persona daltónica no puede ver no hace más que apagar toda la imagen para una persona que sí puede ver.",
     image:
-      "http://elearningmasters.galileo.edu/wp-content/uploads/2018/08/01-3.jpg",
+      "https://totenart.com/noticias/wp-content/uploads/2015/06/colores-espectro-noticias-totenart.png",
     imageMobile: "https://trucos.com/media/upload/2019/09/27/mario-kart-tour-monedas-02.jpg",
     descriptionMobile: "El juego de Mario Kart Tour cuenta con una gran variedad de colores y, aun así, sigue siendo divertido y jugable para personas daltónicas.",
     imageWeb: "https://wwwhatsnew.com/wp-content/uploads/2019/10/Kahoot.jpg",
